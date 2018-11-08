@@ -3,7 +3,6 @@ package boletin6_1;
 import javax.swing.JOptionPane;
 
 /**
- *
  * @author cfigueirasvalverde
  */
 public class Numero {
